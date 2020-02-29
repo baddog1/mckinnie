@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,VIP US: FOX Tampa
+http://livegopanel.club:8080/123456/123456/21987
 #EXTINF:-1,VIP US: Discovery ID HD
 http://livegopanel.club:8080/123456/123456/22913
 #EXTINF:-1,US: Sportsnet World HD
